@@ -21,3 +21,22 @@ the bag of seeds inside the space where only one item fits on the boat then go t
 I think the best possible solution would be the first one. Because the second one might not be possible if the bag is to
 small. I made a diagram to show how this would be done.
 Link: https://docs.google.com/drawings/d/17pDXvfhO8V34ru5UI7a2PwW5UJcid4mDa5hWB7yK4Bc/edit?usp=sharing
+
+Problem Number 2:
+Socks in the Dark:
+There are 20 socks in a drawer:	5 pairs	of black socks,	3 pairs	of brown and 2 pairs of	white. You
+select the socks in	the	dark and can check them	only after a selection has been	made. What is
+the	smallest number	of socks you need to select	to guarantee getting the following:
+a) At least one	matching pair
+b) At least one	matching pair of each color.
+
+The five steps from the problem-solving video:
+The problem is that you need to choose the least amount of socks while still getting a matching pair and getting atleast
+a matching pair of each color(black, brown, and white) but you have to do it in the dark and you can only view them
+after you have picked the certain amount of socks. The only solution that I see to get atleast one matching pair and
+one of each color is to choose 10 socks. The reason for this is because there are 5 pairs of black socks, 3 pairs of
+brown socks, and 2 pairs of white socks. 5 + 3 + 2 is 10. Just counting the brown and the white socks there are 10 socks.
+ There are 10 black socks, a lot more than brown and white but the same amount when combined. I made a gameplay video
+ me playing minecraft, showing you how Choosing the 10 socks does satisfy getting the a matching pair, and a
+ matching pair of each color.
+ Link: http://youtu.be/A-udx0ASrmU
