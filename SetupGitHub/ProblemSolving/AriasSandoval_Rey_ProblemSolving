@@ -40,3 +40,32 @@ brown socks, and 2 pairs of white socks. 5 + 3 + 2 is 10. Just counting the brow
  me playing minecraft, showing you how Choosing the 10 socks does satisfy getting the a matching pair, and a
  matching pair of each color.
  Link: http://youtu.be/A-udx0ASrmU
+
+ Problem Number 3:
+ Predicting Fingers:
+ A little girl counts using the	fingers	of her left hand as	follows: She starts	by calling her thumb 1,
+ the first finger 2, middle	finder 3, ring finger 4, and little	finger	5. Then	she	reverses direction,
+ calling the ring finger 6,	middle finger 7, first finger 8	and	thumb 9, after	which she calls	her	first
+ finger	10 and so on. If she continues to count	in this	manner, on which finger	will she stop?
+ a) What if	the	girl counts	from 1	to	10
+ b) What if	the	girl counts	from 1	to	100
+ c) What if	the	girl counts	from 1	to	1000
+
+ The five steps from the problem-solving video:
+ The problem here is that we need to figure out on what finger will the little girl land when she counts all the way to
+ a certain number such as 10, 100 and so on. We can figure this out by seeing how she counts, possible just by counting
+ exactly the way the little girl would and counting all the way to 100 and 1000, but that can be very hard work, you
+ could possible skip a number. Unless you make a table...
+
+ Thumb:                 1, 9, ..  17, .., 25, ..,
+ first finger:          2, 8, 10, 16, 18, 24, 26,
+ middle finger:         3, 7, 11, 15, 19, 23, 27,
+ ring finger:           4, 6, 12, 14, 20, 22, 28, 30, 36, 38, 40, 42, 48, 50, 56, 58, 64, 66, 72, 74, 90, 92, 98, 100
+ little finger:         5, .. 13, .., 21, .., 29,
+
+ Now from the table above, I saw a pattern in the ring finger, it increases by two then by six then by two again and so
+ on. So from that, I was able to count all the way to number 100, and luckily we landed on exactly 100. In my
+ opinion, I guess that if it's the same pattern all the way to a hundred, it will be the same to 200, 300, 400, and so
+ on all the way to a thousand. Now to answer A, B, and C, A) if the girl counts from 1 to ten she would land on her
+ first finger(the word problem gave that answer away). B) If the girl counts from 1 to a hundred she would land on her
+ ring finger. C) If the girl counts from 1 to a thousand, she would land on her ring finger again.
