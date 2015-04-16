@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1136d56b-9950-4a72-8acb-bd3a07aeccc8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js" afterPath="$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js" afterPath="$PROJECT_DIR$/OptionalAssignments/Expressions_worksheet/ExpressionWorksheet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignments/Expressions_worksheet/Expressions.html" afterPath="$PROJECT_DIR$/OptionalAssignments/Expressions_worksheet/Expressions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving" afterPath="$PROJECT_DIR$/OptionalAssignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rey_arias_wpf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,55 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SetupGitHub/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SetupGitHub/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AriasSandoval_Rey_ProblemSolving" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="1155">
-              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionWorksheet.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="695">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expressions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignments/Expressions_worksheet/Expressions.html">
+      <file leaf-file-name="expression.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expressions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="855">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,6 +62,9 @@
         <option value="$PROJECT_DIR$/SetupGitHub/ProblemSolving/AriasSandoval_Rey_ProblemSolving" />
         <option value="$PROJECT_DIR$/Assignments/Expressions_worksheet/Expressions.html" />
         <option value="$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js" />
+        <option value="$PROJECT_DIR$/OptionalAssignments/Expressions_worksheet/ExpressionWorksheet.js" />
+        <option value="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html" />
+        <option value="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js" />
       </list>
     </option>
   </component>
@@ -100,8 +72,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="23" />
+    <option name="x" value="76" />
+    <option name="y" value="79" />
     <option name="width" value="1400" />
     <option name="height" value="792" />
   </component>
@@ -159,6 +131,46 @@
               <option name="myItemId" value="Assignments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandovalArias_ReyAlejandro_Expressions_Assignment." />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SandovalArias_ReyAlejandro_Expressions_Assignment." />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -178,6 +190,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Assignments/OptionalAssignments" />
       <recent name="$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Flowchart_Assignment." />
       <recent name="$PROJECT_DIR$/Assignments" />
     </key>
@@ -249,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1400" height="792" extended-state="0" />
+    <frame x="76" y="79" width="1400" height="792" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -306,12 +320,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving">
+    <entry file="file://$PROJECT_DIR$/OptionalAssignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -332,52 +346,68 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SetupGitHub/index.html">
+    <entry file="file://$PROJECT_DIR$/OptionalAssignments/Expressions_worksheet/ExpressionWorksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.107913665" vertical-offset="0" max-vertical-offset="695">
+          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionalAssignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24460432" vertical-offset="460" max-vertical-offset="1155">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SetupGitHub/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+        <state vertical-scroll-proportion="0.21582733" vertical-offset="0" max-vertical-offset="695">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/ProblemSolving/AriasSandoval_Rey_ProblemSolving">
+    <entry file="file://$PROJECT_DIR$/SetupGitHub/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="1155">
-          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.111773476" vertical-offset="0" max-vertical-offset="671">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/Expressions_worksheet/Expressions.html">
+    <entry file="file://$PROJECT_DIR$/OptionalAssignments/Expressions_worksheet/Expressions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+        <state vertical-scroll-proportion="0.111773476" vertical-offset="0" max-vertical-offset="671">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js">
+    <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="695">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1294964" vertical-offset="0" max-vertical-offset="855">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>

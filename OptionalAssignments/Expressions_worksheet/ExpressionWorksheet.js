@@ -5,4 +5,4 @@
     //Dog Age In Human Years
 var SparkyAge = 11; //How long the dog has been alive in years
 var DogHumanAge = SparkyAge * 7; //the age of the dog in human years
-console.log("Sparky is", SparkyAge, "human years old which is", DogHumanAge, "in dog years")
+console.log("Sparky is", SparkyAge, "human years old which is", DogHumanAge, "in dog years");
