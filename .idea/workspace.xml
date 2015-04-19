@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1136d56b-9950-4a72-8acb-bd3a07aeccc8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js" afterPath="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html" afterPath="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SetupGitHub/js/script.js" afterPath="$PROJECT_DIR$/SetupGitHub/js/script.js" />
     </list>
     <ignored path="rey_arias_wpf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +30,18 @@
       <file leaf-file-name="expression.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SetupGitHub/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,8 +50,8 @@
       <file leaf-file-name="Expressions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7410072" vertical-offset="160" max-vertical-offset="855">
-              <caret line="47" column="90" selection-start-line="47" selection-start-column="90" selection-end-line="47" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.8920863" vertical-offset="55" max-vertical-offset="870">
+              <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -56,13 +66,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SetupGitHub/index.html" />
-        <option value="$PROJECT_DIR$/SetupGitHub/js/script.js" />
         <option value="$PROJECT_DIR$/SetupGitHub/ProblemSolving/AriasSandoval_Rey_ProblemSolving" />
         <option value="$PROJECT_DIR$/Assignments/Expressions_worksheet/Expressions.html" />
         <option value="$PROJECT_DIR$/Assignments/Expressions_worksheet/ExpressionWorksheet.js" />
         <option value="$PROJECT_DIR$/OptionalAssignments/Expressions_worksheet/ExpressionWorksheet.js" />
         <option value="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html" />
         <option value="$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js" />
+        <option value="$PROJECT_DIR$/SetupGitHub/js/script.js" />
       </list>
     </option>
   </component>
@@ -70,8 +80,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="79" />
+    <option name="x" value="8" />
+    <option name="y" value="33" />
     <option name="width" value="1400" />
     <option name="height" value="792" />
   </component>
@@ -104,6 +114,38 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Rey_Arias_wpf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SetupGitHub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rey_Arias_wpf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SetupGitHub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -261,15 +303,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="79" width="1400" height="792" extended-state="1" />
-    <editor active="true" />
+    <frame x="8" y="33" width="1400" height="792" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -367,16 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SetupGitHub/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21582733" vertical-offset="0" max-vertical-offset="695">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SetupGitHub/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.111773476" vertical-offset="0" max-vertical-offset="671">
@@ -395,16 +427,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./expression.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetupGitHub/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/SandovalArias_ReyAlejandro_Expressions_Assignment./js/Expressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7410072" vertical-offset="160" max-vertical-offset="855">
-          <caret line="47" column="90" selection-start-line="47" selection-start-column="90" selection-end-line="47" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.8920863" vertical-offset="55" max-vertical-offset="870">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
           <folding />
         </state>
       </provider>
