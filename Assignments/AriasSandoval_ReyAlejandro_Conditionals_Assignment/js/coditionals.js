@@ -4,15 +4,7 @@
 /*
  Rey Alejandro Arias Sandoval
  04/16/15
- Conditionals assignment, week 3.
- var arr = [1,2,3,4,5,6]
- var arrTotal = 0;
-
- for(var j=0; j<arr.length;j++){
- arrTotal +=arr[j];
- }
-
-
+ Conditionals Assignment, Week 3.
  */
 
 //Ask if they would like to know how much time is left before the warranty expires
