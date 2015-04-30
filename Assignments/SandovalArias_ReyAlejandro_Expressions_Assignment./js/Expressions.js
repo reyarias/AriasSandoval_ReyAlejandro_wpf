@@ -45,7 +45,7 @@ if(YearlySalQ==="Yes"){
     alert("Have a nice day/night/evening "+name+"!");
     console.log(name+" did not want to know his yearly earnings.");
 } else{
-    alert(name+", i'm sorry but I couldn't understand what your response was.")
+    alert(name+", i'm sorry but I couldn't understand what your response was.");
     console.log(name+"s input was not valid or recognized. He/she has to refresh the page.")
 }
 
