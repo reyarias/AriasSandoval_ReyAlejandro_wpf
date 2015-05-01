@@ -1,11 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head lang="en">
     <meta charset="UTF-8">
     <title>Functions Assignment</title>
     <script src="js/javascript.js"></script>
+    <style>
+        body {
+            background-color: #679fff;
+            color: #9edeff;
+        }
+        #returned {
+            float:right;
+            width: 300px;
+            height: 150px;
+            background: #679fff;
+            color:#9edeff;
+            -webkit-animation: Noticeme 4s 1;
+        }
+        @-webkit-keyframes Noticeme {
+            from {
+                background-color: yellow;
+            }
+            to {
+                background-color: #679fff; color:#9edeff;
+            }
+        }
+        @keyframes Noticeme {
+            from {background-color: yellow;}
+            to {background-color: #679fff;color:#9edeff;}
+        }
+
+
+
+    </style>
 </head>
 <body>
-<h1 ></h1>
+<h1 id="returned"></h1>
+<script>
+    var testing1 = function() {
+        if (MoreFoods == "no" || MoreFoods == "No") {
+            var element = document.getElementById("returned");
+            if (UsersGender == "male" || UsersGender == "Male") {
+                if (DailMaleCal < UsersCalories(CaloriesToday, FoodsEaten)) {
+                    var OverConsCal = UsersCalories(CaloriesToday, FoodsEaten) - DailMaleCal;
+                    element.innerHTML = "The total number of calories consumed was " + UsersCalories(CaloriesToday, FoodsEaten) + " you ate " + OverConsCal + " More." + UsersName + ", you need to exercise...";
+                } else if (DailMaleCal > UsersCalories(CaloriesToday, FoodsEaten)) {
+                    var NeedMoreCal = DailMaleCal - UsersCalories(CaloriesToday, FoodsEaten);
+                    element.innerHTML = "The total number of calories consumed was " + UsersCalories(CaloriesToday, FoodsEaten) + " you need " + NeedMoreCal + " More.";
+                }
+            } else if (UsersGender == "female" || UsersGender == "Female") {
+                if (DailFemaleCal < UsersCalories(CaloriesToday, FoodsEaten)) {
+                    var OverFemConsCal = UsersCalories(CaloriesToday, FoodsEaten) - DailFemaleCal;
+                    element.innerHTML = "You consumed a total of " + UsersCalories(CaloriesToday, FoodsEaten) + " calories and consumed " + OverFemConsCal + " more than the average female needs.";
+                } else if (DailFemaleCal > UsersCalories(CaloriesToday, FoodsEaten)) {
+                    var NeedMoreCal1 = DailFemaleCal - UsersCalories(CaloriesToday, FoodsEaten);
+                    element.innerHTML = "You consumed a total of " + UsersCalories(CaloriesToday, FoodsEaten) + " calories and need " + NeedMoreCal1 + " calories more to get your daily female calories.";
+                }
+            }
+        } else if (MoreFoods=="yes"||MoreFoods=="Yes") {
+
+            if (UsersGender == "male" || UsersGender == "Male") {
+                if (DailMaleCal < TheUsersCalcCalor) {
+                    var overConsCal = TheUsersCalcCalor - DailMaleCal;
+                    element.innerHTML = "You consumed a total of " + TheUsersCalcCalor + " calories and consumed " + overConsCal + " more than the average female needs.";
+                } else if (DailMaleCal > TheUsersCalcCalor) {
+                    var needMoreCal1 = DailMaleCal - TheUsersCalcCalor;
+                    element.innerHTML = "You consumed a total of " + TheUsersCalcCalor + " calories and need " + needMoreCal1 + " calories more to get your daily female calories.";
+                }
+            }else if (UsersGender == "female" || UsersGender == "Female") {
+            if (DailFemaleCal < TheUsersCalcCalor) {
+                var OverFemConsCal = TheUsersCalcCalor - DailFemaleCal;
+                element.innerHTML = "You consumed a total of " + TheUsersCalcCalor + " calories and consumed " + OverFemConsCal + " more than the average female needs.";
+            } else if (DailFemaleCal > TheUsersCalcCalor) {
+                var NeedMoreCal1 = DailFemaleCal - TheUsersCalcCalor;
+                element.innerHTML = "You consumed a total of " + TheUsersCalcCalor + " calories and need " + NeedMoreCal1 + " calories more to get your daily female calories.";
+            }
+        }
+    }
+
+
+
+
+
+    };
+    window.onload = testing1();
+</script>
+    <footer>The male and females daily intake of calories was according to googles top results. In the source it also mentions that it all mostly depends on <q>your age, size, height, sex, lifestyle, and overall general health</q> You can find out more information <a href="http://www.medicalnewstoday.com/articles/245588.php"> here</a></footer>
 </body>
 </html>

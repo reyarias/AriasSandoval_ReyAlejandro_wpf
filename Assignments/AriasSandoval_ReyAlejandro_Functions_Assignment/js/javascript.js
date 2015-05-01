@@ -85,7 +85,7 @@ if(MoreFoods=="yes"||MoreFoods=="Yes") {
         Morefoods = prompt(UsersName+" You left it blank! Please say the number of foods you ate that have the same amount of calories.");
     }
     //Puts the function in a variable to be shorter in length
-    var TheUsersCalcCalor = usersCal(MorefoodsTot,MoreFoods1,MorefoodsTot2,MoreFoods2,MorefoodsTot3,MoreFoods3);
+    var TheUsersCalcCalor = usersCal(MorefoodsTot,MoreFoods1,MorefoodsTot2,MoreFoods2,MorefoodsTot3,MoreFoods3) + (CaloriesToday * FoodsEaten);
     //lets the user know the total calories consumed
     alert(UsersName+", you have consumed "+TheUsersCalcCalor+" calories in total");
     console.log(UsersName+" has consumed "+TheUsersCalcCalor+" calories in total.");
@@ -104,36 +104,42 @@ if(MoreFoods=="yes"||MoreFoods=="Yes") {
         //checks to see if the user is a female
     }else if(UsersGender=="female"||UsersGender=="Female"){
         alert("The average female needs to consume atleast 2000 calories each day.");
-        if(DailfemaleCal<usersCal(MorefoodsTot,MoreFoods1,MorefoodsTot2,MoreFoods2,MorefoodsTot3,MoreFoods3)){
-            var OverFemConsCal = usersCal(MorefoodsTot,MoreFoods1,MorefoodsTot2,MoreFoods2,MorefoodsTot3,MoreFoods3) - DailfemaleCal;
+        if(DailfemaleCal<TheUsersCalcCalor){
+            var OverFemConsCal = TheUsersCalcCalor - DailfemaleCal;
             alert("You consumed "+OverFemConsCal+" more calories than the average male. No offense "+UsersName+", but you need to exercise.");
-        }else if(DailfemaleCal>usersCal(MorefoodsTot,MoreFoods1,MorefoodsTot2,MoreFoods2,MorefoodsTot3,MoreFoods3)){
-            var NeedMoreCal1 = DailfemaleCal - usersCal(MorefoodsTot,MoreFoods1,MorefoodsTot2,MoreFoods2,MorefoodsTot3,MoreFoods3);
+        }else if(DailfemaleCal>TheUsersCalcCalor){
+            var NeedMoreCal1 = DailfemaleCal - TheUsersCalcCalor;
             alert("You need to eat more "+NeedMoreCal1+" calories!");
         }
     }
-
 }else if(MoreFoods=="no"||MoreFoods=="No") {
-    alert("You consumed a total of " + UsersCalories(CaloriesToday, FoodsEaten) + " calories from the food.");
-    console.log("You have a total of " + UsersCalories(CaloriesToday, FoodsEaten) + " calories in the the total food consumed.");
+    var ShorterFunName = UsersCalories(CaloriesToday, FoodsEaten);
+    alert("You consumed a total of " + ShorterFunName + " calories from the food.");
+    console.log("You have a total of " + ShorterFunName + " calories in the the total food consumed.");
     if(UsersGender=="male"||UsersGender=="Male"){
         alert("The average male needs to consume atleast 2500 calories each day.");
-        if(DailMaleCal<UsersCalories(CaloriesToday, FoodsEaten)){
-            var OverConsCal = UsersCalories(CaloriesToday, FoodsEaten) - DailMaleCal;
+        if(DailMaleCal<ShorterFunName){
+            var OverConsCal = ShorterFunName - DailMaleCal;
             alert("You consumed "+OverConsCal+" more calories than the average male. No offense "+UsersName+", but you need to exercise.");
-        }else if(DailMaleCal>UsersCalories(CaloriesToday, FoodsEaten)){
-            var NeedMoreCal = DailMaleCal - UsersCalories(CaloriesToday, FoodsEaten);
-            alert("You need to eat more "+NeedMoreCal+" calories!");
+        }else if(DailMaleCal>ShorterFunName){
+            var NeedMoreCal = DailMaleCal - ShorterFunName;
+            alert("You need to eat "+NeedMoreCal+" more calories!");
         }
     }else if(UsersGender=="female"||UsersGender=="Female"){
         alert("The average female needs to consume atleast 2000 calories each day.");
-        if(DailFemaleCal<UsersCalories(CaloriesToday, FoodsEaten)){
-            var OverFemConsCal = UsersCalories(CaloriesToday, FoodsEaten) - DailFemaleCal;
-            alert("You consumed "+OverFemConsCal+" more calories than the average male. No offense "+UsersName+", but you need to exercise.");
-        }else if(DailFemaleCal>UsersCalories(CaloriesToday, FoodsEaten)){
-            var NeedMoreCal1 = DailFemaleCal - UsersCalories(CaloriesToday, FoodsEaten);
-            alert("You need to eat more "+NeedMoreCal1+" calories!");
+        if(DailFemaleCal<ShorterFunName){
+            var OverFemConsCal = ShorterFunName - DailFemaleCal;
+            alert("You consumed "+OverFemConsCal+" more calories than the average female. No offense "+UsersName+", but you need to exercise.");
+        }else if(DailFemaleCal>ShorterFunName){
+            var NeedMoreCal1 = DailFemaleCal - ShorterFunName;
+            alert("You need to eat "+NeedMoreCal1+" more calories!");
         }
     }
 
 }
+
+/*
+I said i'm male, had eaten 4 foods that contain 600 calories which said i had consumed 2400, do not have more foods
+ that I would want to add, and calories and need 100 calories more to get the daily average calories for males.
+ */
+
