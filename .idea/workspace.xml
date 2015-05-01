@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1136d56b-9950-4a72-8acb-bd3a07aeccc8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Functions_Assignment/index.html" afterPath="$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Functions_Assignment/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Functions_Assignment/js/javascript.js" afterPath="$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Functions_Assignment/js/javascript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rey_arias_wpf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="javascript.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Functions_Assignment/js/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8489209" vertical-offset="1540" max-vertical-offset="2265">
-              <caret line="142" column="111" selection-start-line="142" selection-start-column="111" selection-end-line="142" selection-end-column="111" />
+            <state vertical-scroll-proportion="0.8705036" vertical-offset="1540" max-vertical-offset="2265">
+              <caret line="143" column="3" selection-start-line="143" selection-start-column="3" selection-end-line="143" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -329,7 +327,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1423" height="792" extended-state="0" />
+    <frame x="25" y="23" width="1423" height="792" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -505,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/AriasSandoval_ReyAlejandro_Functions_Assignment/js/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8489209" vertical-offset="1540" max-vertical-offset="2265">
-          <caret line="142" column="111" selection-start-line="142" selection-start-column="111" selection-end-line="142" selection-end-column="111" />
+        <state vertical-scroll-proportion="0.8705036" vertical-offset="1540" max-vertical-offset="2265">
+          <caret line="143" column="3" selection-start-line="143" selection-start-column="3" selection-end-line="143" selection-end-column="3" />
           <folding />
         </state>
       </provider>

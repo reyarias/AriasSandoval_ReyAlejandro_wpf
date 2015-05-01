@@ -139,7 +139,7 @@ if(MoreFoods=="yes"||MoreFoods=="Yes") {
 }
 
 /*
-I said i'm male, had eaten 4 foods that contain 600 calories which said i had consumed 2400, do not have more foods
- that I would want to add, and calories and need 100 calories more to get the daily average calories for males.
+I said i'm male, had eaten 4 foods that contain 600 calories which said i had consumed 2400 calories, do not have more foods
+ that I would want to add, and need 100 calories more to get the daily average calories for males.
  */
 
